@@ -47,9 +47,13 @@
     <table class="table table-striped table-bordered" id="data-table">
      <thead>
       <tr>
-       <th>Student ID</th>
-       <th>Student Name</th>
-       <th>Phone Number</th>
+       <th>ID</th>
+       <th>Trạm</th>
+       <th>Danh mục chính</th>
+       <th>Danh mục con</th>
+       <th>Số Lượng</th>
+       <th>Slot</th>
+       <th>Ghi chú</th>
       </tr>
      </thead>
     </table>
