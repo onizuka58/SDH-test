@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <?php
 
 //index.php
@@ -33,9 +32,7 @@
      <br />
      <label>Add More Data</label>
     </div>  
-                <div class="col-md-4">  
-                   <input type="file" name="csv_file" id="csv_file" accept=".csv" style="margin-top:15px;" />
-                </div>  
+                 
                 <div class="col-md-5">  
                     <input type="submit" name="upload" id="upload" value="Upload" style="margin-top:10px;" class="btn btn-info" />
                 </div>  
@@ -47,13 +44,9 @@
     <table class="table table-striped table-bordered" id="data-table">
      <thead>
       <tr>
-       <th>ID</th>
-       <th>Trạm</th>
-       <th>Danh mục chính</th>
-       <th>Danh mục con</th>
-       <th>Số Lượng</th>
-       <th>Slot</th>
-       <th>Ghi chú</th>
+       <th>Student ID</th>
+       <th>Student Name</th>
+       <th>Phone Number</th>
       </tr>
      </thead>
     </table>
@@ -90,3 +83,5 @@ $(document).ready(function(){
   });
  });
 });
+
+</script>
